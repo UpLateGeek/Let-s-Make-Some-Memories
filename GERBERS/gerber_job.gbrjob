@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-06-22T05:55:07Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Lets Make Some Memories (30P SIMM)"
+        },
+        "Owner": "Alexander Dunn <co3017410-a@pico.net.au>",
+        "Size": {
+            "X": 88.9,
+            "Y": 20.32
+        }
+    }
+}
