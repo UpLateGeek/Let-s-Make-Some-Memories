@@ -17,10 +17,10 @@ title: Bill of Materials
 
 ## Shopping List
 
-| Amount | Part Type              | Properties      |
-| ------ | ---------------------- | --------------- |
-| 3      | SMD ceramic capacitors | 100nF           |
-| 2      | 4M x 4-bit SOJ-20 DRAM | TC5117400CSJ-60 |
-| 1 [^1] | 4M x 1-bit SOJ-20DRAM  | HYB514100BJ-60  |
+| Amount                       | Part Type              | Properties      |
+| ---------------------------- | ---------------------- | --------------- |
+| 3                            | SMD ceramic capacitors | 100nF           |
+| 2                            | 4M x 4-bit SOJ-20 DRAM | TC5117400CSJ-60 |
+| 1<sup id="a1">[1](#f1)</sup> | 4M x 1-bit SOJ-20DRAM  | HYB514100BJ-60  |
 
-[^1]: These are only needed if you want a parity module.
+<b id="f1">1</b> These are only needed if you want a parity module. [↩](#a1)
